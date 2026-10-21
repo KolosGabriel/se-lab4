@@ -1,0 +1,5 @@
+# T5: ALL mod tesztelese (sikeres, reszben ures es ures esetek)
+GT4500,1,0,2,0
+TORPEDO,ALL
+TORPEDO,ALL
+TORPEDO,ALL

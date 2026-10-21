@@ -1,0 +1,3 @@
+# T6: ALL mod ahol csak az elsodlegesben van torpedo
+GT4500,1,0,0,0
+TORPEDO,ALL

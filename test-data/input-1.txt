@@ -1,0 +1,5 @@
+# T1 & T2: Elsodleges kezd, majd masodlagosra valt, majd mindketto ures
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
